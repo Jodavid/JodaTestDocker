@@ -1,0 +1,14 @@
+Package: JodaTestDocker
+Title: JodaTestDocker
+Version: 0.0.1
+Authors@R: 
+      person("Jodavid", email = "jodavid@protonmail.com",role = c("aut","cre"))
+Description: .
+License: GPL (>= 3)
+Imports: 
+    plumber
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
